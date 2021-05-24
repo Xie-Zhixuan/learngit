@@ -1,5 +1,0 @@
-# 在.gitignore中写入文件名或者正则表达式
-
-# windows:
-*.class
-*.exe
