@@ -1,0 +1,13 @@
+# 在.gitignore中写入文件名或者正则表达式
+
+# 排除所有 . 开头的隐藏文件:
+.*
+
+# 排除所有中间文件
+*.class
+*.exe
+
+# 不排除 .gitignore 
+!.gitignore
+
+
